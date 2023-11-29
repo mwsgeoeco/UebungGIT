@@ -64,5 +64,9 @@ classification("Lychnis flos-cuculi", db='gbif') # Aha - der offizielle Name ist
 retrieved_traits <- tr8(species_list = "Silene flos-cuculi", download_list = my_traits, allow_persistent=F)
 retrieved_traits
 
+### die Realität ist schmutzig
+retrieved_traits <- tr8(species_list = "Lychnis flos-cuculi", download_list = my_traits, allow_persistent=F)
+retrieved_traits
+
 
 
