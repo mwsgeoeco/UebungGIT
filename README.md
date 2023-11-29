@@ -1,1 +1,1 @@
-# UebungGIT
+# Übung zur Taxonomic Harmonization 
